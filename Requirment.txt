@@ -1,0 +1,4 @@
+HI, 
+we need to create a script to export data from automatic
+notifications received into our email and parse and export this 
+into google sheets.
